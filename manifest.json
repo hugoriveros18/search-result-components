@@ -1,7 +1,7 @@
 {
   "vendor": "panamericana",
   "name": "search-result-components",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "title": "Search Result Components",
   "description": "Componentes customizados desarollados para la pagina de resultado de busqueda",
   "builders": {

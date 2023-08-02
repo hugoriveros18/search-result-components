@@ -1,5 +1,11 @@
 {
   "search-breadcrumb-wrapper": {
     "component": "SearchBreadcrumbWrapper"
+  },
+  "did-you-mean-wrapper": {
+    "component": "DidYouMeanWrapper"
+  },
+  "search-test": {
+    "component": "Test"
   }
 }
